@@ -34,4 +34,3 @@ Example simulation showing the division process and output timing.
 
 ![Simulation waveform](img/rdiv_simwave.png)
 
-sername>/radix4-division-vhdl.git
